@@ -1,0 +1,16 @@
+{
+  "name": "web-mixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jazz-midi": "^1.5.4",
+    "terminal-kit": "^1.8.12",
+    "web-midi-api": "^1.4.4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "snapshotFile": "/home/illuphisa/NSM Sessions/webradio-studio/Non-Mixer.nITKE/snapshot",
+  "address": "localhost",
+  "port": 7580,
+  "mixer": {
+    "port": 7860,
+    "name": "Non-Mixer.nITKE"
+  },
+  "updateInterval": 10000
+}
